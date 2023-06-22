@@ -9,7 +9,7 @@
     The basic idea behind this whole project is to develop a better understanding of different 
     strategies related to the overall competition.
 
-    Conclusion:
+Conclusion:
 
 Based on numerous regression models we can see that if the desire to predict or estimate the position at
 the finish of a race, it is crucial to maintain two features: race number and odds. These two features had the strongest 
